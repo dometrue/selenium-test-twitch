@@ -16,5 +16,11 @@ The test script performs the following actions:
 ## Running the Test
 To run the test locally, ensure you have the required dependencies installed and run the script using Python.
 
+# Below the gif requested:
+
+![script4](https://github.com/dometrue/selenium-test-twitch/assets/75115607/8205b76b-d7d2-42e7-9522-7af918e61550)
+
+
+
 ```bash
 python test_twitch.py
